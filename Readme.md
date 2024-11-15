@@ -2,6 +2,8 @@
 
 We can remove outputElement, which is a DOM element.
 It limits the ability to run code everywhere.
+And DOM handling even slows down the speed.
+We can get rid of DOM element.
 
 Instead, let's use an array.
 
